@@ -4,6 +4,7 @@
 #include "framework.h"
 #include "Application.h"
 
+f
 
 CoolClass::CoolClass(void)
 {
